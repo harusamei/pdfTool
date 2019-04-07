@@ -1,0 +1,1243 @@
+[Review] www.whxb.pku.edu.cn
+物理化学学报(Wuli Huaxue Xuebao)
+Acta Phys. -Chim. Sin. 2016, 32 (8), 1894－1912 August
+doi: 10.3866/PKU.WHXB201605034
+Received: March 18, 2016; Revised: May 3, 2016; Published on Web: May 3, 2016.
+*Corresponding author. Email: haoli.zhang@lzu.edu.cn; Tel: +86-931-8912365.
+The project was supported by the National Key Basic Research Program of China (973) (2012CB933102), National Natural Science Foundation of
+China (51525303, 21233001, 21190034), and Fundamental Research Funds for the Central Universities and 111 Project, China.
+国家重点基础研究发展规划项目(973) (2012CB933102), 国家自然科学基金(51525303, 21233001, 21190034)和高等学校学科创新引智计划
+(111引智基地)资助
+© Editorial office of Acta Physico-Chimica Sinica
+新型有机-无机杂化钙钛矿发光材料的研究进展
+肖 娟 张浩力*
+(兰州大学功能有机分子化学国家重点实验室，化学化工学院，兰州 730000)
+摘要：作为近几年来光伏领域最具竞争力的材料之一，有机-无机杂化钙钛矿受到了广泛的重视。除了在光
+伏领域的潜在应用，钙钛矿材料也显示出了独特的光致发光与电致发光特性。本综述回顾了近期有机-无机
+杂化钙钛矿材料的快速发展历程，详细介绍了其在发光领域的研究进展与应用前景；概括了钙钛矿发光材料
+的特性及影响因素、发光原理、光谱可调节性，重点介绍了形貌对钙钛矿发光性能的影响；进而探讨了钙钛
+矿材料在发光二极管、激光器件以及发光场效应晶体管领域最新的应用进展。最后，展望了钙钛矿材料的关
+键性热点问题以及所面临的挑战，并尝试给未来钙钛矿材料的商业化途径指出方向。
+关键词：钙钛矿；形貌；光谱可调；发光二极管；激光；发光场效应晶体管
+中图分类号：O649
+Recent Progress in Organic-Inorganic Hybrid Perovskite Materials for
+Luminescence Applications
+XIAO Juan ZHANG Hao-Li*
+(State Key Laboratory of Applied Organic Chemistry, College of Chemistry & Chemical Engineering,
+Lanzhou University, Lanzhou 730000, P. R. China)
+Abstract: As one of the most promising materials in the field of photovoltaics, organic- inorganic hybrid
+perovskites have attracted widespread attention in recent years. In addition to their promising applications in
+the field of photovoltaics, perovskite materials also exhibit outstanding photoluminescence and
+electroluminescence properties. This paper reviews the latest developments in organic- inorganic hybrid
+perovskite materials, with particular attention paid to the luminescence. Firstly, a summary of the fundamental
+issues related to the unique light emitting characteristics and influencing factors of perovskite materials is
+provided, including the light-emitting mechanism and principles related to spectrum adjustability. The influence
+of the morphology of perovskite on the photoluminescence properties is discussed. The latest developments
+and applications of perovskite materials in various devices, including light-emitting diodes, lasers, and light-
+emitting field effect transistors, are then discussed. Finally, the key issues and challenges of perovskite light
+emitting materials are addressed and prospects for future perovskite-based applications are discussed.
+Key Words: Perovskite; Morphology; Spectrum adjustability; Light-emitting diode; Laser;
+Light-emitting field effect transistor
+1 引 言
+有机-无机杂化钙钛矿作为一个新的“明星”
+半导体材料，成为近年来最受关注的光电子材料
+之一。2009年，Miyasaka课题组 1首次利用有机-无
+1894
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+机杂化钙钛矿(CH3NH3PbI3或CH3NH3PbBr3)作为光
+敏化层制备了液态的染料敏化太阳能电池
+(DSSCs)。 他 们 采 用 TiO2/CH3NH3PbI3 或 TiO2/
+CH3NH3PbBr3作为阳极，FTO/Pt作为阴极，获得了
+3.81%的光电转换效率。然而，钙钛矿材料的不稳
+定性，特别是对电解液的严格无水要求，限制了
+其进一步发展。直到 2012年，固态太阳能电池的
+出现打破这一桎梏。Chung等 2首次利用CsSnI3作
+为空穴传输层制备全固态DSSCs，获得10.2%的高
+效率。同年，Kim等 3制备基于CH3NH3PbI3为光敏
+化层和 spiro-OMeTAD为空穴传输层的全固态太阳
+能电池，效率达到9.7%，有机-无机杂化钙钛矿太
+阳能电池取得了突破性进展。2012年10月，Etgar
+等 4第一次制备了无空穴传输材料的介观钙钛矿电
+池，效率达到 7.3%，Meng课题组 5进一步优化达
+到10.49%的效率。而Lee等 6则利用介孔Al2O3取代
+TiO2，同样获得10.9%的高效率。至此，钙钛矿太
+阳能电池进入全面发展时代。 2013 年 6 月 ，
+Burschka等 7利用连续沉积的方法制备介孔型钙钛
+矿电池，取得了惊人的突破，效率高达 15%。同
+年9月，Liu等 8采用双源蒸发技术制备平板型钙钛
+矿电池，获得 15.4%高效率。2013 年年底，《科
+学》(Science)杂志将它评为 2013年的 10大科学突
+破之一。在最近一年多时间来，被美国国家可再
+生能源室 (NREL)认证的钙钛矿器件效率就从
+16.2% 9、16.7% 10、17.9% 11、20.1% 12稳步增长到
+目前的 22.1% 13。利用不同的器件结构以及多样化
+的钙钛矿吸收层，获得不同的高效率器件制备工
+艺，有机-无机杂化钙钛矿太阳能电池已经显示了
+巨大的吸引力和广阔的发展前景，成为光伏领域
+发展的前沿 14。针对钙钛矿电池的电极 15,16、空穴传
+输层 10,17、电子传输层 18,19以及对钙钛矿薄膜的膜层
+改性研究 20－22此起彼伏。已经有大量综述对钙钛矿
+在光伏器件领域的研究进行了探讨 23－26。
+值得一提的是，除了在光伏领域的卓越表现
+以外，钙钛矿材料在众多其它领域也有重要的应
+用空间。近期，对于钙钛矿材料在光解水 27、光检
+测 28、辐射探测 29、单晶器件 29－31、发光器件(发光
+二极管、激光、发光场效应晶体管)32－34等应用领域
+的研究也取得了阶段性的进展，而对这些领域的
+系统性总结还比较缺乏。本文将重点讨论钙钛矿
+材料的光学性质，重点探讨其在制备新型发光材
+料与构筑发光器件等领域的最新进展。
+2 有机-无机杂化钙钛矿的基本性质
+2.1 钙钛矿的原子结构与能级特征
+一般来说，在一个典型的钙钛矿晶胞中，其
+化学结构式可描述为AMX3，如图 1(a)所示，是具
+备有 5个原子的立方结构(α相)。其中，阳离子M
+(立方体体心)，具有6个相距最近的阴离子X(立方
+体面心)和 12个阳离子A(立方体顶点)。相关离子
+的尺寸对于维持晶体结构稳定型控制是非常严格
+的。在理想条件下，为了维持晶体结构的高度对
+称性，A、M、X的离子半径必须满足容忍因子 t：
+t = (RA + RX)/{ 2 (RM + RX)} (1)
+接近1。其中，RA、RM、RX分别为对应离子的离子半
+径。显然，由公式(1)可知，足够大的A离子(RA ⩾
+RM)是满足 t趋近于1的必要条件，否则晶体结构发
+生扭曲或者对称性降低。即使作为元素周期表中
+原子半径最大的第一主族Cs原子，还是不能达到
+满足维持晶体稳定性的程度，因而必须寻求更大
+的取代基团。这也是为什么 CH3NH3PbI3比 CsPbI3
+稳定的原因 35,36。
+在一定的温度条件下，当 t处于 0.89－1.00之
+间时，晶体结构能够得到保持 37。一般来说，较小
+的 t会导致形成对称性低的四方晶系(β相)或者正交
+晶系(γ相)；然而，较大的 t (t > 1)则会使钙钛矿3D
+结构向2D结构的转换。最明显的例子是，在DFT
+肖娟，兰州大学化学化工学院有机
+化学专业 2013 级硕士生，主要研
+究方向为钙钛矿材料在光电器件中
+的应用研究。
+张浩力，博士，兰州大学教授。主
+要从事新型有机半导体和有机无机
+杂化材料的设计与合成工作。承担
+国家 973项目、国家自然科学基金
+委重大项目、杰出青年基金项目
+等。英国皇家化学会会士，享受国
+务院政府特殊津贴。
+1895
+Acta Phys. -Chim. Sin. 2016 Vol.32
+理论计算 0 °C条件下，γ相总是最稳定的，而α相
+由于难以满足 t = 1的条件总是最不稳定的。事实
+上，在一定的温度条件下，这些钙钛矿经常出现
+晶体结构的转换 38,39。不同的离子尺寸和晶体结
+构，钙钛矿晶相之间的转换温度是不同的。就最
+初始研究的钙钛矿结构CH3NH3PbI3而言，其α到β
+到 γ的转换温度分别发生在330和160 K 40。有趣的
+是，对于钙钛矿而言，研究还发现了非钙钛矿的
+δ 相，例如 HC(NH2)2PbI3、 FAPbI3、 CsPbI3 以及
+CsSnI3等 38,39,41。β和 γ相相对于 α相仅有较小的扭
+曲，且对紫外、带隙等电学特性改变也不大 35。δ
+相却不能由 M―X―M 的键角扭曲形成 α相，相
+反，M―X键是断裂的(如图1(b－d))。
+钙钛矿作为直接半导体材料，如图 1(e－h)所
+示。β、γ以及 δ为CH3NH3PbI3的DFT-PBE理论计
+算能带结构，带隙值分别为 1.57、1.46 以及 2.31
+eV；α则为其( 2 × 2 × 2)的超晶胞结构，体现
+了1.54 eV的带隙值。β和 γ相对比于α相，电子构
+型相对保持，仅仅在Pb―I―Pb键角处有较小的扭
+曲；而 δ相的 Pb―I键断裂以及 3D [Pb―I]框架结
+构的破坏，导致钙钛矿带隙值增大约 0.5 eV的同
+时，也将使得空穴有效质量增大。
+图1 CH3NH3PbI3的原子结构和能带结构 35
+Fig.1 Atomic structures and band structures of CH3NH3PbI335
+(a, e) α phase, (b, f) β phase, (c, g) γ phase, and (d, h) δ phase. The unit cells of β and γ phases are ( 2 × 2 × 2), based on α phase.
+1896
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+2.2 钙钛矿的光吸收与发射性质
+2.2.1 基本光吸收性质
+光吸收能力强是钙钛矿材料得以应用于太阳
+能电池的一个显著特性。根据 Schockely-Queisser
+极限曲线，单结太阳能电池光吸收材料的最佳带
+隙为1.4 eV。实验证明，钙钛矿作为一个直接带隙
+材料(例如CH3NH3PbI3，带隙 1.5 eV)，在可见光全
+波段范围内具备全光谱吸收能力。
+第一性原理可用于计算钙钛矿的光吸收能
+力。半导体材料光吸收时可由以下两个重要因素
+决定：导带和价带之间的跃迁矩阵(transition ma-
+trix elements)，以及它们之间的联合态密度(joint
+density of states)。前者体现在光电转换的每一个可
+能性而后者考虑的是光电转换的总的可能性。因
+此，材料光吸收效率与材料电子结构更相关。以
+硅基为代表的第一代、GaAs为代表的第二代以及
+钙钛矿为代表太阳能电池光吸收机理如图2(a－c)所
+示。硅基太阳能电池材料是从Si的p轨道跃迁至Si
+的 p和 s轨道，其光吸收与吸收边相近。同时，作
+为一个间接带隙材料，其光吸收层远厚于直接带
+隙材料。以GaAs为代表的第二代太阳能电池材料
+是从As的 p轨道跃迁至Ga的 p和As的 s轨道；而
+钙钛矿太阳能电池是从 I的 p轨道跃迁至Pb的 p轨
+道以及Pb的 s轨道跃迁至Pb的p轨道 36。后两者作
+为直接带隙材料，不仅光吸收层大大减小，而且
+光吸收的能力强。然而，有机-无机杂化钙钛矿材
+料较GaAs具有更强的光学吸收能力，这在实现更
+薄的、更高效的、更经济的太阳能电池上具有决
+定性因素。
+具体就光伏器件所需的吸收层厚度而言，以
+硅基为代表的第一代和GaAs为代表的第二代太阳
+能电池分别需要大概 300和 2 μm的厚度；而以钙
+钛矿为代表的光吸收层以不到 500 nm的膜层，却
+能获得超过 20%的光电转换效率。相比于传统的
+太阳能电池，钙钛矿太阳能电池材料的光学带隙
+窄，吸光层厚度小，载流子扩散长度达 100－1000
+nm，激子寿命长达 100 ns，其厚度与载流子扩散
+长度的相匹配，使得钙钛矿材料成为光伏领域迅
+猛发展的理想材料 36。
+2.2.2 影响发光性质的因素
+探究钙钛矿材料的发光性能是目前钙钛矿材
+料领域的另一重要应用前景。基于材料本身在
+390－790 nm光谱范围内均可吸收，具备超大的光
+吸收系数，超低的体积缺陷密度，缓慢的俄歇复
+合以及平衡的双极性传输等特性，使得钙钛矿材
+料在高发光效率方面取得显著优势 33。同时，钙钛
+矿材料的可溶液加工、柔性器件制备等特性，使
+得工艺简单、价格低廉的大面积器件制备成为可
+能，使其在显示、照明和光通信方面都有广泛的
+应用前景。
+2.2.2.1 组成影响
+根据第一性原理以及导带和价带的轨道均由
+Pb、I之间杂化组成，钙钛矿材料的能带结构主要
+由晶体中的无机组分决定 43,44。为了制备一系列颜
+色可调节的光伏电池，目前已有大量不同的有机
+分子或原子用于对钙钛矿带隙进行调节，如图3所
+示。在立方体的钙钛矿AMX3结构中，尽管调节A
+离子组成对能带结构的影响较小，但是，一定程
+度上还是能够对能带进行微调。基于经典的有机-
+无机杂化钙钛矿结构―CH3NH3PbI3带隙为 1.5 eV；
+将钙钛矿的CH3+官能团缩小为原子半径最大的无机
+配体Cs+ (CsPbI3)，其带隙 1.67 eV 39，远离最佳带
+隙值；将CH3+官能团扩大为NH2―CH＝NH2+ (NH2―
+CH＝NH2PbI3)，其带隙 1.4 eV 45，趋近最佳带隙
+值，与理论计算匹配。因此，随着钙钛矿中A组
+分尺寸的增大，其带隙值逐渐减小。
+M离子对钙钛矿的影响主要体现于是否环境
+友好型方面。目前应用最广泛的是Pb2+离子，作为
+有毒成分在一定程度上限制了钙钛矿的发展应
+用。以Sn2+取代Pb2+作为钙钛矿的金属部分有一定
+研究，然而，所制备的薄膜性能差、覆盖率低，
+使得这一类型钙钛矿填充因子 (FF)、开路电压
+图2 太阳能电池光吸收原理图 36
+Fig.2 Schematic optical absorption for
+solar cell absorber36
+(a) first-generation, (b) second-generation, and (c) halide perovskite
+solar cell absorber. GaAs has been chosen as a prototypical
+second-generation solar cell absorber.
+1897
+Acta Phys. -Chim. Sin. 2016 Vol.32
+(Voc)、光电转换效率(PCE)等与含Pb2+钙钛矿均存在
+一定差距 21,46。因此，就优化钙钛矿中如何选取合
+适的金属离子以及制备工艺还需更多研究。
+X 位置的取代基团，大部分被第 VII 主族的
+Cl，Br和 I所占据，这是调控钙钛矿能带的主体部
+分。如图 3 所示，单组份卤素取代的钙钛矿
+CH3NH3PbX3 (X = Cl，Br， I)等能获得不同的带
+隙 47,48，但其带隙值均不小于 1.5 eV。因此，合成
+混卤钙钛矿并调节 Cl/Br，Br/I 比例以及不同的
+Pb2+、Sn2+等金属离子是实现合适能带值调节的有
+效方法 49。
+在混卤体系中，Br/I，Cl/Br 的比例对钙钛矿
+发光起着重要的调节作用。2015年，Bolink课题
+组 50 研究发现，随着器件基底 ITO/PEDOT:PSS/
+polyTPD/MAPb(I1 － xBrx)3上 MAPbBr3层厚度的增加
+(即 Br 含量增加)，吸收的起始位置较纯组分的
+MAPbI3 (1.58 eV)发生蓝移。同时，相应的带隙逐
+渐变宽。值得注意的是，这种现象并不适用于其
+它材料。这是由于在形成 MAPb(I1 － xBrx)3 的过程
+中，I/Br离子之间存在的无序扩散变强导致。随着
+MAPbBr3层厚度的增加，其光谱吸收更加陡峭，
+带隙值增大。为了探究为什么Br含量的增加对二
+极管性能起到负效应，Wetzelaer及其合作者 51,52拟
+定在内建电势低于1 V的扩散暗电流条件下，引入
+了理想因子这一参数 (1.8－2.0，当钙钛矿为纯
+MAPbI3或混卤时达到溴的低含量(x ⩽ 0.2))。研究
+表明，理想因子的偏差主要归因于非辐射陷阱辅
+助复合作用。当然，其它复合也有很大影响。一
+方面，多余的MAPbI3会导致自由载流子复合；另
+一方面，随着溴含量增加，钙钛矿的最高价带
+(VBM)逐步较小(－5.4到－5.9 eV)至与空穴阻挡层
+(PCBM，－6.0 eV)相当 53，在MAPbBr3/PCBM内界
+面发生直接电荷复合，这也解释了为什么在溴含
+量高时，理想因子接近于1，且EQEEL低的原因。
+另一种调节钙钛矿发光颜色的办法可通过阴
+离子间交换获得。Pb(CH3COO)2和CH3NH3Br采用
+室温液相生长法可获得高质量的MAPbBr3纳米棒
+阵列。将其用于制备结构为 ITO/PEDOT:PSS/
+CH3NH3PbBr3/F8/Ca/Ag 的 LED 器件，展现出绿色
+533 nm的电致发光。通过阴离子交换方法，将基
+底升温至约 150 °C，再将生长好的 ITO/PEDOT:
+PSS/CH3NH3PbBr3 纳米棒阵列浸于 CH3NH3I 蒸汽
+中，获得了CH3NH3PbI3纳米棒阵列，器件光学照
+片从橘黄色变为黑色，同时展现出近红外 782 nm
+的电致发光，发光光谱发生红移。这是后合成化
+学转换的方法用于修饰杂化钙钛矿纳米结构的探
+索。通过控制温度，获得了不同阴离子组成的钙
+钛矿结构，探索了光电子器件制备的新方法 54。能
+带的可调节性，为实现钙钛矿材料在近红外到可
+见光范围内的多色发光提供了可能 55。
+2.2.2.2 温度因素的影响
+设计钙钛矿发光器件的一个最基本的步骤是
+设计合适的有机-无机杂化钙钛矿层以获得合适的
+发光特性。钙钛矿层颜色的调节可以通过改变器
+件的退火温度获得。较低的退火温度会导致钙钛
+矿的能带变宽，发生蓝移。同时，在研究以
+CH3NH3Cl 和 CH3NH3Br 制备的钙钛矿时，由于
+CH3NH3Cl的亲和力较溴化物低，因此在较高温度
+图3 不同种类的钙钛矿吸收体，TiO2以及传统的空穴传输材料 spiro-MeOTAD的能级图 42
+Fig. 3 Energy levels (vs vacuum) and E (vs NHE) for various perovskite absorbers, TiO2 and a conventional hole
+transporting material, 2,2′,7,7′-tetrakis-(N,N-dimethoxyphenyl-amine)-9,9′-spirobifluorene (spiro-MeOTAD)42
+MA＝CH3NH3+, EA＝CH3CH2NH3+, FA＝NH2―CH＝NH3+. The values under the chemical formula are the corresponding band gaps, in eV.
+Only band gap values of CsPbI3 and MAPbCl3 were found, the valence and conduction band edges were not found in the literature.
+1898
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+时，氯离子将大量损失。研究表明，氯离子的降
+解对钙钛矿颜色的调节也具有促进作用 56。这也符
+合之前在MAPbBr3－xClx体系的研究中，氯离子含量
+升高时，会导致钙钛矿光谱蓝移，并获得较小的
+晶格常数 57,58。
+2014 年，D′Innocenzo等 59研究了测试温度对
+光学带隙的影响。在相转变温度之上，随着测试
+温度降低，钙钛矿的光学带边由于晶格应力的作
+用向低能量方向移动 60－62。同时，在初始激发光强
+下，随着温度的降低，光致发光(PL)寿命则会增
+加，光谱发生红移。
+2.2.3 钙钛矿发光颜色的调节
+通过有机-无机杂化钙钛矿的组成调控(包括组
+成成分、卤素原子比例、有机基团、厚度等)以及
+温度调控等，可以很好地获得不同带隙的钙钛矿
+材料。这是实现钙钛矿材料近红外到可见光范围
+内的多色发光的基础。同时，钙钛矿不同的形貌
+及尺寸对发光性能同样具有显著影响。
+以不同的方法制备的从几十到上千纳米的钙
+钛矿薄膜对太阳能电池器件效率具有很大影
+响 64,65。通过从几十纳米到几微米调节钙钛矿薄膜
+晶体尺寸，钙钛矿的带隙以及发光寿命等均发生
+变化。实验证明：较大尺寸的晶体展现出更窄的
+光学带隙和较长的寿命，这与辐射双分子复合系
+数变小相匹配 59。同时，较小的晶体尺寸显示了较
+高的光学增益值，这也为连续波激光器的制备提
+供了可能。
+D'Innocenzo等 59还研究了MAPbI3薄膜形态从
+分子水平到介孔水平对其发光性质的影响，如图4
+(a－d)所示。研究表明：随着多晶尺寸的增加，光
+学吸收边和PL发射峰的位置都向低能量的长波长
+方向移动，并且这两者迁移速率保持常量。同
+时，他们研究了晶体尺寸对荧光寿命的影响，发
+现依赖于样品具体形貌的钙钛矿荧光寿命，随着
+晶体尺寸的增加(从< 250 nm到> 1 μm)，其寿命增
+长(从~2 ns到~100 ns)；Cl掺杂的钙钛矿较单一组
+分的MAPbI3材料寿命也将进一步增加。如图 4(e)
+所示，PL寿命(τPL)与初始激光强度(n0)之间的关系
+可以表述如下：
+τPL ＝ (A + Brad n0)－1 (2)
+其中，A为单分子捕获速率，Brad为非辐射复合系
+数。从较大的晶体到较小晶体，Brad将增大，即从
+(0.62 ± 0.06) × 10－9 s－1∙cm3变为(3.7 ± 0.2) × 10－9 s－1∙
+cm3；而 A 相反，从 1.3 × 107 s－ 1减小到 0.72 × 107
+s－1。同时，Brad的减小伴随着带边(Eg)的红移，这显
+示了钙钛矿晶体的尺寸对带隙的影响。随着激发
+光强的增加，荧光效率增加，这与小晶体中起主
+要作用的双分子复合过程中的辐射复合相一致。
+值得注意的是。在确定阈值能量密度(激发光强>
+1017 cm－3)之上，非辐射过程影响增强，导致了PL
+产率的减少，这也是匹配Saba等 66解释的俄歇复合
+机理。同时，较小的晶体由于较高的体积缺陷密
+度显示较低的阈值 67。因此，增加晶体的维度和降
+低温度均可以通过影响晶格应变而探究Brad与Eg之
+间的关系。
+Noh 等 48通过调节 CH3NH3Pb(I1－xBrx)3中 I 和 Br
+的比例，实现了钙钛矿材料带隙在1.5－2.2 eV之间
+的调节。2014 年，Eperon 等 68发现了钙钛矿材料
+CH3NH3PbI3的带隙随着有机基团体积的增大而减
+小现象。此外，他们利用FAPbI3yBr3(1－y)材料也可以
+实现带隙在1.48－2.23 eV的连续调节，并获得了发
+光波长从540到820 nm的调节。
+到2015年，Zhang等 63制备的钙钛矿量子点实
+现了 405－730 nm可见光范围内(如图 4(f－h)所示)
+以及Huang等 69的 475－520 nm绿色到蓝色范围内
+的光致发光。目前利用钙钛矿材料形成的薄膜构
+筑光电子器件，已经成功实现制备红光 33,50,70,71、绿
+光 71 － 73、蓝光 73 等 LED 器件，以及近红外激光
+器 74、绿光激光器 75和白光场效应晶体管 34等器件
+的趋势与目标。实现钙钛矿材料从近红外到可见
+光范围内的不同颜色发光，是钙钛矿在显示、照
+明和光通信等方面大有作为的重要保障。
+3 钙钛矿材料的形貌调控
+3.1 量子点
+在纳米尺度下，物质中电子的波性以及原子
+之间的相互作用将受粒子尺寸大小的影响。由纳
+米颗粒组成的纳米材料具有以下传统材料所不具
+备的特殊性能：表面效应、小尺寸效应、量子尺
+寸效应、宏观量子隧道效应等。有机-无机杂化钙
+钛矿作为一种廉价、颜色可调节的直接带隙材
+料，在发光、显示等领域均有应用。但是，在较
+低的激发光条件下，其荧光量子产率一般不高。
+通过调节钙钛矿尺寸、或者对钙钛矿表面缺陷进
+行适当的钝化处理，可以在很大程度上提升其发
+光效率 76。
+1899
+Acta Phys. -Chim. Sin. 2016 Vol.32
+就材料尺寸效应而言，本征缺陷的数量会随
+着材料的体积缩小减少，并且由于自排除作用而
+进一步减少。然而，在纳米尺寸材料中，对表面
+缺陷起决定性作用是纳米材料较大的比表面积。
+钙钛矿纳米量子点作为一种小尺寸量子点，激子
+束缚能较大，其荧光发射主要来源于激子复合而
+非自由电子与空穴的复合。因此，通过表面钝化
+效应，进一步减少有机-无机杂化钙钛矿的表面缺
+陷，是获得高效荧光量子产率的有效方法。
+通过配基辅助再沉淀的方法，Zhang等 63利用
+正辛胺和油酸作为复合配体，将CH3NH3PbBr3量子
+点(3.3 nm)的荧光量子效率从< 0.1%提升到 70%。
+图4 (a－e) MAPbI3薄膜的SEM，UV-Vis，PL峰位置和PL寿命表征 59，(f－h)颜色可调节的CH3NH3PbX3量子点和广色域
+钙钛矿白光发光二极管器件 63
+Fig.4 (a－e) SEM, UV-Vis, PL peak position and PL lifetime characterization of MAPbI3 thin film59,
+(f－h) color-tunable CH3NH3PbX3 quantum dots (QDs) and wide-color gamut phosphor-converted
+white-light-emitting diodes (pc-WLED) devices63
+(a－d) top-view SEM images of MAPbI3 (a) [MAI] = 0.063 mol∙L－1, T = 25 °C; (b) [MAI] = 0.045 mol∙L－1, T = 25 °C; (c) [MAI] = 0.031 mol∙L－1,
+T = 25 °C; (d) [MAI] = 0.045 mol∙L－1, T = 70 °C. Scale bars are 2 μm. (e) (top) spectral positions of the UV-Vis absorption band edge and
+continuous wave-PL peak position and (bottom) PL lifetime as functions of the crystallite size. (f) optical images of CH3NH3PbX3 QDs (Nos. 1－9)
+under ambient light and a 365 nm UV lamp. (g) PL emission spectra of CH3NH3PbX3 QDs. (h) CIE color coordinates corresponding to
+the CH3NH3PbX3 QDs (Nos. 1－9, circle), pc-WLED devices (lines), and NTSC standard (bright area)
+1900
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+同时，对比了相应微米尺寸的粒子，证明小尺寸
+的钙钛矿量子点具有较高的荧光量子效率 69。这种
+发光可调节、廉价、方便，易于大面积制备的钙
+钛矿胶体量子点为显示器的色彩表现效能提升提
+供了可能。
+3.2 纳米线
+半导体纳米线(NWs)是实现小面积激光器的备
+受关注的材料。这类型材料的平面状结构能作为
+光学共振腔，产生光共振；同时，作为光学放大
+的增益介质，引发激光现象 77。大多数由下而上合
+成纳米线的方法，工艺众多，但是很难达到商业
+化的由上而下技术的结果，特别是具有复合组分
+的材料。
+钙钛矿在水相及大多数大极性有机溶液中都
+是不稳定的。传统的vapour-liquid-solid方法合成纳
+米线需要金属催化；同时，为获得高性能的器
+件，无机晶体生长均需要高达 400 °C 左右的高
+温，这些都体现了传统方法的局限性 78。2015年，
+Zhu等 75共同发明了一种简单的制备有机-无机杂化
+钙钛矿纳米线的新方法——表面引发的溶液生长
+法。这种溶液法合成钙钛矿纳米线是非常引人注目
+的。在低温且无催化剂条件下，钙钛矿纳米线将各
+向异性生长，同时，晶种的螺旋错位是生长主要方
+式，并且沿着螺旋轴生成一维晶体 79－81(图5)。
+低温80 °C的反应条件下，首先在玻璃基底上
+生长醋酸铅的多晶薄膜，再将这一膜层浸入高浓
+度的CH3NH3X (X = Cl，Br，I)异丙醇溶液中。其
+间 ， 醋 酸 铅 层 与 CH3NH3X 溶 液 反 应 生 成
+CH3NH3PbX3的过程将出现很多位错。最初长成的
+钙钛矿薄膜作为扩散势垒，阻止底部的醋酸铅层
+与溶液快速反应，同时，从未反应的醋酸铅层缓
+慢溶解出的Pb会生成中间产物PbI42－，调节并维持
+CH3NH3X前体溶液浓度处于低过饱和的条件，以
+钙钛矿晶种层的位错作为驱动，促进结晶纳米线
+的生长。
+这种纳米线表现出非常高的发光效率，就碘
+化物钙钛矿而言可高达 87%。研究表明，在低激
+光阈值 220 nJ∙cm－2下就可产生激光发射。通过调
+图5 CH3NH3PbX3的单晶纳米线结构表征 75
+Fig.5 Structural characterization of single-crystal CH3NH3PbX3 NWs75
+Optical (a) and SEM (b) images of CH3NH3PbI3 nanostructures grown from PbAc2 thin film in a 40 mg∙mL－1 CH3NH3I/isopropanol solution with
+a reaction time of 24 h. Low-resolution TEM image (c) and its selected-area electron diffraction pattern along the [110] zone axis (ZA).
+Magnified SEM images of NWs (top view) (d, e), showing a square or rectangular cross-section and flat end facets perpendicular to
+the long NW axis. High-resolution TEM image and its corresponding fast Fourier transform (f).
+1901
+Acta Phys. -Chim. Sin. 2016 Vol.32
+节材料的组成，亦可获得近红外到可见区光谱可
+调的激射波长。在如此低的激光阈值条件下即可
+发光，这在另一侧面证明了这种方法生长纳米线
+具备较低的结构缺陷，很高的品质因子 (QF)值
+(~3600)75。钙钛矿材料是实现纳米线激光器在更宽
+泛领域(如纳米光子学、光学计算、化学-生物传感
+等方面)应用的杰出材料。
+3.3 纳米棒
+在纳米科技领域，纳米棒指的是一类形态在
+纳米级别的准一维纳米材料。其尺寸在 1－100 nm
+之间，可由金属或者半导体材料合成制备，标准
+纵横比小，一般小于 20。纳米棒主要利用“由下
+而上”的方法制备。通过物理或化学法(气相、液
+相及模板法)得到的粒子在适当的条件下形成不同
+晶面不同长度的纳米棒。这为在不同生长速率下
+不同晶面形成长方形形态的纳米棒提供了可能。
+基于纳米棒的优异性能，利用有机-无机杂化
+钙钛矿制备的纳米棒在太阳能电池、发光等领域
+同样表现出潜在的应用。2015年，Wong等 54利用
+CH3NH3PbBr3可控生长得到钙钛矿纳米棒阵列，得
+到 533 nm绿色LED；再采用阴离子交换法，改变
+卤素组成，获得了CH3NH3PbI3纳米棒阵列获得了
+782 nm的近红外发光二极管(LED)。这是首次利用
+溶液法室温合成溴代钙钛矿纳米棒，并实现阴离子
+转换。这种基于纳米棒后合成转换化学修饰钙钛矿
+纳米结构的方法，在光电子器件领域具有潜在的应
+用前景。
+3.4 二维纳米片
+就真正的集成光电电路而言，近红外固态微
+米或纳米激光器是其重要组成部分。基于 III-V族
+化合物(GaAs，CdTe，InP等)制备的室温纳米线激
+光器已经取得了重要进展 82－84，但其低量子效率和
+高俄歇复合仍旧限制了其进一步发展。以GaAs为
+例，相继应用表面钝化、回音壁腔 (whispering
+gallery mode，WGM)、布拉格反射镜等技术提升
+增益材料的量子效率，然而，其荧光量子产率仍
+然不到1% 84,85。与此同时，一维纳米线在Si基底上
+的集成化制备也是一个巨大障碍。
+2014年，Zhang等 86利用基于有机-无机杂化型
+钙钛矿CH3NH3PbI3－aXa (X = I，Br，Cl)，实现了室
+温固态平面型纳米片激光器的制备。他们制备的
+三角形和六边形的钙钛矿材料，形成了厚度为10－
+300 nm、边缘长度达微米级别的高质量的平面回
+音壁模腔(如图 6(a, b)所示)，这一形貌有利于获得
+足够的增益值和有效地光反馈，并获得低阈值条
+件下的面内激光。同时，这些波长可调的回音壁
+模纳米激光器可以很容易的集成到Si、Au、ITO等
+导电基底上。这为钙钛矿在单芯片集成上提供了
+可能。
+2015 年，Tian 等 87制备了基于 CH3NH3PbI3和
+CH3NH3PbBr3的纳米线以及纳米片。同时，他们利
+用了时间分辨发光扫描成像技术表征载流子分离
+的直接可视化过程。研究表明，纳米片较纳米线
+具有更大的扩散系数和电荷迁移率。CH3NH3PbI3
+和 CH3NH3PbBr3分别显示了从 1.59 到 2.41 cm2∙s－1
+(56.4到93.9 cm2∙V－1∙s－1)以及从0.50到1.44 cm2∙s－1
+(19.4到 56.1 cm2∙V－1∙s－1)扩散系数和电荷迁移率；
+同时，他们还发现这些变化与材料的形状和尺寸
+有很大关系。
+3.5 单晶和微晶
+利用单晶或多晶的钙钛矿材料来制备发光器
+件也是钙钛矿在光电子领域探索的另一种模式。
+2014年，Xing等 33利用低温溶液法制备发光器件，
+尽管其荧光量子产率不高，然而，基于单晶器件
+的高增益值、大的吸收截面、低的体积缺陷密
+度、低的双分子复合以及缓慢的俄歇复合还是使
+CH3NH3PbI3 能够产生激光 (如图 6(c)所示)。2015
+年，Tian等 87制备利用CH3NH3PbI3和CH3NH3PbBr3
+制备的单晶纳米线以及纳米片，测试了其载流子
+扩散系数、电荷迁移率、复合速率常数以及载流
+子分散长度等性质。
+此外，Dhanker等 88利用钙钛矿(CH3NH3PbI3)旋
+涂自发形成了平面网状微晶，产生了光泵浦的无
+序激射现象。closed quasi-modes 下激光的低阈值
+(< 200 μJ∙cm－2)、窄线宽(△λ < 0.5 nm)是通过异质
+结散射——连接线性网状片段中的弹道光波导
+(ballistic waveguiding)达到的。这些 quasi-modes拓
+宽了钙钛矿侧面长度(> 100 μm)并使空间重叠，导
+致增益竞争和混乱的无序激发强度的变化。从它
+的发射微型PL图像可以看出，在网状薄膜中，有
+许多明亮的外耦合点存在，支持 quasi-modes概念
+的序列图像(如图 6(d)所示)。同时，通过调节泵浦
+光斑直径，他们还发现激光阈值(Ith)会随着光照面
+积(A)的减小而增加。这可以通过Apalkov和Raikh89
+建立的随机谐振器统计结构确定这个激光阈值：
+Ith∝exp é
+ë
+êê
+ù
+û
+úú－
+æ
+è
+ç
+ö
+ø
+÷
+ln(A/A0)
+G
+1 λ
+(3)
+1902
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+其中，A0是典型的 quasi-modes面积；G是系统的
+无序长度；λ⩾ 1，代表无序程度。
+4 发光器件
+4.1 钙钛矿发光原理
+广义上的钙钛矿薄膜光致激发的不同光物理
+过程和损失机理如图7所示。光子的吸收导致生成
+电子-空穴对，热化后将转变成高度去离子化的瓦
+尼埃激子。其中的一小部分将自发的分离形成自
+由载流子。这些激子和自由载流子将在它们的整
+个寿命长度共存，且数量发生着动态变化。在
+CH3NH3PbX3型钙钛矿中，激子成对复合或者由于
+单激子猝灭而产生的一个空穴和一个电子之间的
+复合都是没有意义的。同样的，在 CH3NH3PbX3
+中，另一种单分子过程即陷阱辅助复合，也将被
+抑制。在强光条件下，两个自由电荷的非成对复
+合较传统的郎之万极限至少小4个数量级。俄歇复
+合(包括三粒子过程)在CH3NH3PbX3型钙钛矿中是
+非常明显的，甚至在高的激发能量下有放大自发
+辐射(ASE)发生，这在CH3NH3PbI3型钙钛矿的俄歇
+过程中最为显著 33。最后，在这些纯的钙钛矿薄膜
+中，即没有HTM和其它的电子抽取层条件下，这
+些光激子(载流子和自由电荷)在钙钛矿材料中需经
+历辐射和非辐射过程。值得注意的是，在太阳光
+条件(即低的光激发强度)下，俄歇复合或者ASE将
+受到很大的抑制。在太阳光下，随着非辐射过程
+图6 (a－b) 钙钛矿回音壁模纳米腔的激光特性 86，(c－d) 钙钛矿的单晶和网状微晶表征 33,88
+Fig.6 (a－b) Lasing characterizations of perovskites whispering-gallery-mode nanocavities86, (c－d) characterizations of
+perovskites single crystals and microcrystal networks33,88
+(a) Schematic of optical setup. A pulsed laser (400 nm, 150 fs, 1 kHz) excites the sample from the top globally. The spot size is large enough to cover
+the whole cavity to ensure high pumping injection efficiency and reduce the local heating effect. (b) The morphological and near-infrared (NIR)
+photoluminescence from perovskites waveguides inside the cavities confined by their planar polygonal structures and photoluminescence spectra
+taken from individual nanoplatelets. (c) Room temperature lasing from CH3NH3PbI3 single crystals from dropcasted films. Inset is the optical
+micrograph of the crystal. (d) Micro-photoluminescence (MicroPL) images of emission obtained from a fixed sample location with illumination spot
+diameters of 140 μm. Bright spots are interpreted as points with high random lasing (RL) out-coupling and are largely main-tained between the
+illumination spot diameters of 140 and 160 μm (middle circles), even when they are slightly beyond the pumped area (marginal circles).
+1903
+Acta Phys. -Chim. Sin. 2016 Vol.32
+(成对复合，陷阱辅助复合，俄歇复合)的衰弱或失
+活，使得这些钙钛矿成为优异的光伏材料 90。
+从3D有机-无机杂化钙钛矿中获得光放大的机
+理是可以通过这些材料中占显著优势的光激发种类
+(束缚激子气或者电子-空穴等离子体)预测的。2014
+年，Saba等 66就CH3NH3PbI3或者CH3NH3PbI3－xClx的
+光物理过程进行了详尽的阐述。他们使用了跨越8
+个数量级的激光强度 (例如：从 10 － 4 到 104 W∙
+cm－2)，通过Kubo-Martin-Schwinger法则大量模拟
+了PL强度进行测试。低的光强光致激发(载流子密
+度n0 < 1018 cm－3)将导致生成大量的自由载流子和微
+不可计的束缚激子，成对复合减小。陷阱辅助复
+合(n0 < 1017 cm－3)可以通过单分子(例如电子捕获)或
+双分子(空穴和捕获电子的非辐射复合)过程产生。
+在高的光激发强度下(n0 > 1018 cm－3)，载流子的动
+力学过程受自由电子和空穴辐射双分子复合的非
+线性过程以及非辐射俄歇复合的影响。在没有其
+它弛豫过程条件下，两粒子的双分子复合过程较
+三粒子的俄歇复合过程占据主导地位。积累在带
+边处的载流子为获得光放大提供了必需的数量转
+换需求，电子-空穴等离子体密度约 1 × 1018 － 3 ×
+1018 cm−3，受激发射较俄歇过程更具竞争力 33,66。
+4.2 发光二极管
+LED 是将电能转变为光能的半导体发光器
+件，根据 Shockley- Quieisser 公式的细致平衡原
+理，所有的复合终将被辐射，一个高效的太阳能电
+池材料将会在光发射器领域得到很好的运用 92。高
+的材料质量和荧光量子产率使得有机-无机钙钛矿
+在光发射特别是LED方面具有显著应用。
+有机-无机杂化钙钛矿可选择制备成传统的有
+图7 3D钙钛矿光致激发的光物理过程和弛豫路径 90
+Fig.7 A depiction of the photophysical processes and relaxation pathways in 3D perovskites following photoexcitation 90
+Efficient paths (black lines) and suppressed paths (grey lines). Monomolecular recombination is charge carrier density independent, while
+bi-molecular and Auger recombination are charge carrier density-dependent processes that would typically be present under strong photoexcitation
+1904
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+机发光 (OLED) 器和无机量子点发光器 (QDs
+LED)。相较于传统的有机发光二极管，钙钛矿的
+电离电位和电子亲和能使得在相同的电子注入条
+件下更易制备钙钛矿发光二极管；而无机胶体量
+子点源于其本征价带(约 6－7 eV)产生的高的空穴
+注入势垒(> 1 eV)、粒子尺寸导致的发光不均一
+性、以及制备过程中需要的较薄单层或双层量子
+点等 93,94，成为了其发展的限制因素。
+发光二极管的电致发光器件一般采用夹层式
+基本结构，以钙钛矿发光二极管为例：激发光层
+(CH3NH3I3 － xClx)被两侧电极像三明治一样夹在中
+间，一侧为透明电极(FTO)以便获得面发光，另一
+侧则一般以金属(Au)作为阴电极调控电子注入。阳
+极功函数高可以提高空穴注入效率，因此，一般
+使用 ITO或者 FTO作为阳极。以TiO2或者ZnO等
+低功涵材料，修饰阳极可以阻挡空穴并进一步提
+升电子注入率。通过蒸发蒸镀法或旋转涂层法制
+备单层或多层的半导体材料，作为激发光层。以
+金属(例如 Au、Ag 等)作为阴电极，或者再加入
+spiro-OMeTAD作为电子阻挡层和空穴传输层进行
+能带结构调节，即可制备高效率发光器件(如图 8
+(b)所示)71,91。
+其实，钙钛矿 LED 较其光伏应用更早出现。
+早在 1994 年， Era 等 95 就曾采用二维结构的
+(C6H5C2H4NH3)2PbI4钙钛矿材料制备了电致发光器
+件，但其需要在液氮条件下才能实现发光，较高
+的启亮电压，并且量子效率较低均阻碍了其发
+展。2014年，Tan等 71利用低温溶液法制备了FTO/
+TiO2/CH3NH3PbI3－xClx/F8/Au型的钙钛矿器件，不仅
+克服了需要液氮、高压等问题，更获得了高亮度
+的近红外钙钛矿LED器件。在电流密度 363 mA∙
+cm－2时，器件辐射强度达到13.2 W∙sr－1∙m－1，外量
+子效率和内量子效率则分别达到0.76%和3.4%。
+钙钛矿发光二极管发光区域从近红外到可见
+区均有分布。如图 8(a)显示了钙钛矿薄膜在 FTO/
+TiO2基底上 773 nm光致发光的光谱。基于钙钛矿
+发光的本征性质，如何获得高纯度、高效率以及
+商业化的应用则成为今后发展需要。2015年，Kim
+图8 钙钛矿发光二极管原理及器件 32,91
+Fig.8 Schematic and device diagram of perovskite LED32,91
+(a) normalized photoluminescence spectrum of the CH3NH3I3－xPbClx film (λexc = 405 nm). The filled area illustrates the wavelength range under
+the curve that the human eye has its major sensitivity. (b) Energy bands diagram of the materials employed for the preparation of
+the organic-inorganic hybrid perovskite based LEDs. (c) perovskite LED structure using CH3NH3PbBr3.
+(d) photograph of flexible green-emitting perovskite LEDs on PET substrate during bending
+1905
+Acta Phys. -Chim. Sin. 2016 Vol.32
+等 32制备了结构图如图 8(c)所示钙钛矿器件，在低
+电压阈值下显示了很强的电致发光信号，获得高
+纯度的发光(半峰宽 FWHM ≈ 20 nm)。利用 Buf-
+HIL作为空穴注入和阻止激子猝灭层，获得了较商
+业化的 PEDOT:PSS 空穴注入层，高约 300 倍的
+LED器件。同时，也是首次制备了柔性的钙钛矿
+LED，如图8(d)所示的绿色LED器件。尽管钙钛矿
+器件成膜性、稳定性、界面调控等导致电致发光
+效率还是远远低于光致发光效率，但是基于钙钛
+矿的优良性质，加强对其发光性质研究，相信钙
+钛矿将会成为发光领域极具竞争力的材料。
+4.3 激光器
+早在 2008年，就有研究报道称LaAlO3掺杂的
+钕 (LaAlO3:Nd3 + )单晶的能够在 1080 nm 产生激
+光，这一发现证明钙钛矿能产生激光 96。直到2014
+年，这一发现被用于混合型有机-无机杂化钙钛矿
+中。来自剑桥大学的 Friend和牛津大学 Snaith70合
+作 ， 利 用 介 质 反 射 镜 和 金 反 射 镜 之 间 的
+CH3NH3PbI3－xClx制备了光泵浦垂直谐振腔结构激光
+器 (VCSELs)，将可见区泵浦光转换为近红外激
+光，且室温下转换效率达到 70%；几乎同时，南
+洋理工大学Xing等 33利用低温溶液法制备了光谱可
+调的激光器。这是首次报道的关于这一系列价格
+低廉的室温可溶液法制备的半导体材料应用于激
+光领域。同时，它亦开启了这一材料更宽泛的应
+用。
+Xing等 33发现利用低温溶液法制备的有机-无
+机杂化钙钛矿型半导体具有很好的光学增益性能
+和相干光发射性能，能够大面积的嵌入谐振腔从
+而实现芯片内相干光发射。在低泵浦强度下，自
+发辐射的半高宽随着泵浦强度的增加而线性增
+加，当达到(12 ± 2) μJ∙cm－2阈值条件时，发射峰强
+度迅速增加，而半高宽迅速减小，表现更好的单
+色性能。同时，在 788 nm处出现了一个尖锐峰，
+这是 CH3NH3PbI3材料从自发辐射(SE)到放大自发
+辐射(ASE)转变的特征峰值。鉴于钙钛矿材料存在
+高光吸收系数、低体缺陷密度、低双分子复合以
+及低俄歇复合率的特点，因而在较低阈值下就能
+获得很稳定的放大自发辐射。有腔体存在条件
+下，ASE阈值就不同材料固有的光学增益值提供
+了清晰地比较。相对于目前最好的聚合物 (F8DP)97
+和 Super Yellow98 的 ASE 阈值分别是 6 和 36 μJ ∙
+cm－2，以及无机量子点CdSe/ZnCdS核壳薄膜的 90
+μJ∙cm－2 ASE阈值 99而言，钙钛矿显示了具有竞争
+力的低能量阈值。
+较长的荧光寿命是决定材料激光阈值的重要
+因素，它为连续波照条件下获得低阈值连续波激
+光提供了稳定的激子数量。然而，增益系数对材
+料激光阈值同样具有重要影响，它不仅与复合速
+率有关，更关系到非辐射损失。为了表征这一关
+系，可使用可变条长法(VSL)进行测试 100。光激发
+在空间形状是条形的，而光发射来源于条纹的一
+端。输出电流 I(λ，l)与条纹长度关系 l如下所示：
+I( )λ，l =
+A( )λ IP
+g( )λ [ ]e
+g( )λ l
+－ l (4)
+其中，A 是与自发发射相关的常量。Ip是激光强
+度，g是增益系数，λ是发射波长。公式(4)显示，
+较大的晶体展现了较高的增益值以及较长的荧光
+寿命，这为实现好的激光器件提供了可能。
+此外，通过调节钙钛矿前驱溶液组成即可实
+现390－790 nm范围内整个可见区的发光光谱可调
+性能，这些都表明有机-无机杂化钙钛矿是一类新
+的溶液法制备的具有很高理想特性的介质增益材
+料，能实现钙钛矿激光 99，这为溶液法制备的钙钛
+矿在光电子领域的长远发展提供了理论指导。
+不同于ASE，激光阈值则高度依赖于腔体质
+量。2014年，Sargent课题组 74利用球形谐振器制备
+激光(图9(a))，他们使用原子层沉积技术(ALD)制备
+钙钛矿薄膜，其室温ASE阈值为 65 ± 8 μJ∙cm－2。
+采用VSL技术，其模态增益为(125 ± 22) cm－1，增
+益带宽(50 ± 14) meV。再利用ALD技术共形沉积
+到硅球上，80 K下其WGM激光阈值为(75 ± 8) μJ∙
+cm－2 (图9(b))。研究表明，钙钛矿吸光时，电子和
+空穴产生十分迅速(小于 1 ps)，但其复合的时间却
+达到微秒级别 70。这样长的载流子寿命足以满足像
+硅、砷化镓等半导体材料在光发射中由于化学缺
+陷导致的光猝灭。同时，大部分的商业化的半导
+体材料在获得较高的发光和性能之间，均需要花
+费昂贵的代价提纯。因此，长的载流子寿命和高
+的发光效率使得钙钛矿较其它如此简单制备的半
+导体激光器件是史无前例的。
+4.4 发光场效应晶体管
+尽管有机-无机杂化钙钛矿在光电子领域发展
+迅速，但是关于这类材料基本的传输性质也就是
+电荷载流子特性、迁移率、电荷传输机理等仍未
+得到很好的阐述。1999年，Kagan等 101曾利用 2D
+1906
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+的(C6H5C2H4NH3)2SnI4制备 FET 器件并获得了 0.62
+cm2∙V－1∙s－1的场效应迁移率，Ion/Ioff比值达到 104。
+但是基于3D杂化钙钛矿的FET性质却很少有文献
+报道。2015年，Chin等 34利用栅压辅助电致发光技
+术制备了基于CH3NH3PbI3的光发射场效应晶体管
+器件(LE-FET)。他们利用低温测试条件，很好的
+消除了钙钛矿离子传输导致的屏蔽效应。在低于
+200 K温度下，场效应晶体管的迁移率和光子散射
+限制性传输(phonon scattering-limited transport)都将
+会有两个数量级的增加。此外，他们还发现钙钛
+矿电荷传输的双极性性质与理想的双极性晶体管
+特性以及平衡注入条件下晶体管沟道产生的电致
+发光相近。
+第一性原理计算预测了这一类材料在 400 K，
+1016 cm－3浓度下的空穴迁移率3100 cm2∙V－1∙s－1，电
+子迁移率 1500 cm2∙V－1∙s－1 102。同时，通过溶液法
+制备的钙钛矿薄膜THz测试高频迁移率为 8 cm2∙
+V－1∙s－1 103。通过结合电阻率和Hall测试得到的迁移
+率大约为 66 cm2∙V－1∙s－1 39。此外，通过改变钙钛
+矿的有机基团，也可以提高其迁移率 104。
+图9 (a－b)原子层沉积CH3NH3PbI3型钙钛矿激光器示意图 74，(c－f)钙钛矿发光场效应晶体管(LE-FET)器件装置和
+薄膜表征图 34
+Fig.9 (a－b) Schematic diagram of laser device for ALD CH3NH3PbI3 74, (c－f) light-emitting field-effect transistors
+(LE-FET) device configuration and thin-film characterization of CH3NH3PbI3 34
+(a) Variable stripe length measurement setup for gain determination (left) and schematic showing a perovskite-coated microsphere absorbing pump
+light and coupling luminescence into the cavity, resulting in laser emission (right). (b) Spectral dependence of perovskite-coated microsphere
+emission on pump power at T = 80 K for three different pump fluences (100 μJ∙cm－2, blue; 175 μJ∙cm－2, green; 300 μJ∙cm－2, red).
+Distinct laser modes are observed with a free spectral range of 700 GHz. (c) Schematic of the bottom-gate，bottom contact light-emitting
+field-effect transistors (LE-FET) configuration used in this study. (d, e) Transfer (d) and output (e) characteristics obtained at 78 K. The n-type output
+characteristics (right panel) were measured at Vgs = 40－100 V (Vgs = 40 V, 1; Vgs = 60 V, 2; Vgs = 80 V, 3; Vgs = 100 V, 4), whereas the p-type output
+characteristics (left panel) are measured at Vgs = －40 V to －100 V (Vgs = －40 V, 1; Vgs = －60 V, 2; Vgs = －80 V, 3; Vgs = －100V, 4).
+Solid and dashed curves are measured with forward and backward sweeping, respectively. (f) Low-temperature electroluminescence (EL) spectra of
+CH3NH3PbI3 LE-FET. EL spectra collected at Vds = 100 V, Vgs = 100 V，normalized to their maximum peak. The spectra were fitted by
+three Gaussian curves (solid lines). The shift in peak position of the 750 nm peak (peak 1, triangles), the 780 nm peak (peak 2, circles) and
+the 800 nm peak (peak 3, squares) is indicated by the dashed lines.
+1907
+Acta Phys. -Chim. Sin. 2016 Vol.32
+Chin等 34采用溶液法制备了(图 9(c))所示的底-
+栅-底接触LE-FET器件，运用这一模式，可以很好
+地减小钙钛矿在空气中的暴露以及金属电极沉积
+过程导致的电位过热现象。由自发极化引起的铁
+磁性和电容效应而产生的迟滞效应不仅在太阳能
+电池中出现，在FET器件中亦有体现。图9(d, e)分
+别表示了钙钛矿的 FET转移和输出曲线，实线和
+虚线分别显示了测量正向扫描和反向扫描的结
+果。实验表明，钙钛矿具备n型和p型的双极性性
+质，迟滞效应也同时产生。通过降低测试温度，
+迟滞效应在很大程度上减弱。78 K条件下，钙钛
+矿的空穴和电子迁移率线性区域小于饱和区域
+(μe,linear/μe,saturation = 6.7 × 10－ 2/7.2 × 10－ 2 cm2∙V－ 1∙s－ 1，
+μh,linear/μh,saturation = 6.6 × 10－3/2.1 × 10－2 cm2∙V－1∙s－1，线
+性区 Vds = ± 20 V，饱和区 Vds = ± 80 V，图 9(d)所
+示)。因此，实验得到的线性区域迁移率较饱和区
+域小。
+在半导体-电介质界面通过电荷累积达到大的
+载流子注入是获得明亮的可快速切换的电致发光
+的有效途径 105,106。如图 9(c)，通过调节源—漏电极
+以及栅电极偏压，可以获得合适的LE-FET双极性
+沟道，使得电子和空穴在沟道的中间部分发生辐
+射 复 合 107。 在 78 － 178 K 的 低 温 条 件 下 ，
+CH3NH3PbI3 LE-FET的EL发射光谱如图 9(f)所示。
+在最低温度 78 K下，CH3NH3PbI3展现 3个的典型
+发射峰 750 nm (Peak 1)，780 nm (Peak 2)以及 800
+nm (Peak 3)。在较高温度(158 K)下，只有 Peak 2
+出现；然而当温度超过 198 K，由于离子屏蔽效
+应，发射峰将消失。所以，低温是进行钙钛矿发
+射场效应晶体管测试的必要条件 34。
+从晶体管沟道不仅可以观察到平衡的双极性
+载流子注入，更能体现电致发光的栅压以及钙钛
+矿从正方晶系到斜方晶系的转换。通过测试钙钛
+矿的本征传输参数，不仅可以为钙钛矿和太阳能
+器件优化提供指导，更能促进室温条件下发光二
+极管和激光的研究发展。
+5 有待解决的问题
+钙钛矿材料的研究还面临着重要的挑战。首
+先，需要可重复地制备高质量钙钛矿材料。钙钛
+矿材料的纯度、结晶性与缺陷密度等参数对其发
+光性能有显著的影响。虽然钙钛矿材料本征缺陷
+可以通过使用超洁净环境、提升退火温度或者减
+缓其冷却速率进行一定程度的消除，但如何测定
+材料及其薄膜的晶界和表面缺陷密度以及如何进
+一步消除这些缺陷仍未得到很好解决。同时，钙
+钛矿由于外部温度、湿度等导致的非本征稳定性
+和潜在化学反应、相转移以及离子或原子扩散导
+致的本征不稳定性，对材料性能以及器件重现性
+也具有影响。
+另一个制约钙钛矿材料应用的问题是其稳定
+性。通过使用碳作为钙钛矿接触电极和疏水层并
+加以修饰 108，以及通过在一步法制备钙钛矿过程中
+引入磷酸铵添加剂，其中―PO(OH)2和―NH3+能在
+钙钛矿晶粒中起到交联作用，从而能在一定程度
+上阻挡水分的进入，提升器件稳定性 109。目前，钙
+钛矿太阳能电池在不同环境下的稳定性已经进行
+了大量的测试 110，包括热带沙漠气候、长时间室内
+光照处理以及在 80－85 °C条件下的高温三个月测
+试，另外还包括超过 1 cm2的钙钛矿太阳能电池大
+面积稳定性测试 111,112。虽然在测试的过程中依旧能
+保持较好的器件效率，但是在实际应用中能否抵
+抗一年、十年甚至更长时间的各种环境条件的影
+响，还是需要投入更多地研究。
+第三个制约其应用的问题是如何避免使用毒
+性重金属元素。含Pb元素所制备的铅蓄电池在汽
+车电池行业广泛使用，但是如何循环使用仍未得
+到有效解决。特别是基于铅卤钙钛矿的太阳能电
+池对水分特别敏感，钙钛矿极易溶解于水而释放
+到环境中造成污染，因此如何选用合适的金属元
+素解决毒性问题值得进一步探索 113,114。针对钙钛矿
+金属部分的无铅型的优化，如何实现环境友好型
+的高效率器件，解决大面积工业生产的发热(寿
+命)、成本、标准符合等仍旧是我们今后需要解决
+的问题。尽管存在以上挑战，相信随着钙钛矿材
+料研究的迅速推进，这些挑战会逐渐得到解决。
+此外，近期的研究显示形貌对钙钛矿发光性
+质具有重要影响，通过调控制备工艺获得的纳米
+量子点、纳米线、纳米棒、纳米片、单晶以及微
+晶等不同的形貌，能够实现钙钛矿从几十纳米到
+几微米调节的钙钛矿薄膜晶体尺寸，从而使得带
+隙以及发光寿命等均发生变化。目前调控钙钛矿
+材料形貌的主要方法是改变制备过程中的原料组
+成与反应过程中的各种参数。尽管通过温度和组
+成调控可以获得不同带隙的钙钛矿材料，一定程
+度上实现了钙钛矿材料从近红外到可见光范围内
+1908
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+的多色发光，但其中的具体机理还有待深入理
+解。可以有效地调控钙钛矿材料形貌，制备高度
+均匀的方法也值得做进一步探究。
+6 结论与展望
+本文主要讨论了近年来有机-无机杂化钙钛矿
+在光电子方面的研究进展。钙钛矿作为直接带隙
+材料，可以采用溶液法制备具有低体积缺陷密度
+的高质量薄膜，具备光吸收能力强且近红外至整
+个可见区的宽谱吸收、载流子扩散长度和寿命
+长、平衡的双极性电荷传输且电子-空穴迁移率
+高、发光效率高以及能带可调节等特点。这些突
+出的特点使得钙钛矿不仅在光伏领域得以广泛应
+用，在光催化、光检测、辐射探测、单晶器件特
+别是发光领域同样具有广泛的应用前景。近期研
+究显示，能够通过多种简单方法实现钙钛矿材料
+的不同发光颜色调节并获得高亮度发光器件，体
+现了钙钛矿材料在光电子器件方向领域中的重要
+应用前景。如能充分发挥钙钛矿材料加工工艺简
+单、廉价以及多功能等突出特性，将有可能在未
+来的显示、照明、光通讯和消费类电子产品等领
+域取得显著的进步。然而实现以上应用仍有待于
+一些关键问题的解决，如材料的均匀性、稳定
+性、安全性等。我们期待着看到钙钛矿材料为发
+光材料与光电器件领域带来新的突破。
+References
+(1) Kojima, A.; Teshima, K.; Shirai, Y.; Miyasaka, T. J. Am. Chem.
+Soc. 2009, 131 (17), 6050. doi: 10.1021/ja809598r
+(2) Chung, I.; Lee, B.; He, J.; Chang, R. P. H.; Kanatzidis, M. G.
+Nature 2012, 485 (7399), 486. doi: 10.1038/nature11067
+(3) Kim, H. S.; Lee, C. R.; Im, J. H.; Lee, K. B.; Moehl, T.;
+Marchioro, A.; Moon, S. J.; Humphry Baker, R.; Yum, J. H.;
+Moser, J. E.; Graetzel, M.; Park, N. G. Sci. Rep. 2012, 2.
+doi: 10.1038/srep00591
+(4) Etgar, L.; Gao, P.; Xue, Z. S.; Peng, Q.; Chandiran, A. K.; Liu,
+B.; Nazeeruddin, M. K.; Graetzel, M. J. Am. Chem. Soc. 2012,
+134 (42), 17396. doi: 10.1021/ja307789s
+(5) Shi, J. J.; Dong, J.; Lv, S. T.; Xu, Y. Z.; Zhu, L. F.; Xiao, J. Y.;
+Xu, X.; Wu, H. J.; Li, D. M.; Luo, Y. H.; Meng, Q. B. Appl.
+Phys. Lett. 2014, 104 (6). doi: 10.1063/1.4864638
+(6) Lee, M. M.; Teuscher, J.; Miyasaka, T.; Murakami, T. N.;
+Snaith, H. J. Science 2012, 338 (6107), 643. doi: 10.1126/
+science.1228604
+(7) Burschka, J.; Pellet, N.; Moon, S. J.; Humphry Baker, R.; Gao,
+P.; Nazeeruddin, M. K.; Graetzel, M. Nature 2013, 499 (7458),
+316. doi: 10.1038/nature12340
+(8) Liu, M.; Johnston, M. B.; Snaith, H. J. Nature 2013, 501
+(7467), 395. doi: 10.1038/nature12509
+(9) Jeon, N. J.; Noh, J. H.; Kim, Y. C.; Yang, W. S.; Ryu, S.; Seol,
+S. Nat., Il Mater. 2014, 13 (9), 897. doi: 10.1038/nmat4014
+(10) Jeon, N. J.; Lee, H. G.; Kim, Y. C.; Seo, J.; Noh, J. H.; Lee, J.;
+Seok, S. I. J. Am. Chem. Soc. 2014, 136 (22), 7837.
+doi: 10.1021/ja502824c
+(11) Jeon, N. J.; Noh, J. H.; Yang, W. S.; Kim, Y. C.; Ryu, S.; Seo,
+J.; Seok, S. I. Nature 2015, 517 (7535), 476. doi: 10.1038/
+nature14133
+(12) Yang, W. S.; Noh, J. H.; Jeon, N. J.; Kim, Y. C.; Ryu, S.; Seo,
+J.; Seok, S. I. Science 2015, 348 (6240), 1234. doi: 10.1126/
+science.aaa9272
+(13) National Renewable Energy Laboratory 2016 Solar Cell
+Efficiencies (http://www.nrel.gov/ncpv/images/
+efficiency_chart.jpg)
+(14) Zuo, C.; Bolink, H. J.; Han, H.; Huang, J.; Cahen, D.; Ding, L.
+Adv. Sci. 2016, (1500324). doi: 10.1002/advs.201500324
+(15) Zhang, L. J.; Liu, T. F.; Liu, L. F.; Hu, M.; Yang, Y.; Mei, A. Y.;
+Han, H. W. J. Mater. Chem. A 2015, 3 (17), 9165. doi: 10.1039/
+c4ta04647a
+(16) Jiang, Q. L.; Sheng, X.; Shi, B.; Feng, X. J.; Xu, T. J. Phys.
+Chem. C 2014, 118 (45), 25878. doi: 10.1021/jp506991x
+(17) Abate, A.; Hollman, D. J.; Teuscher, J.; Pathak, S.; Avolio, R.;
+D'Errico, G.; Vitiello, G.; Fantacci, S.; Snaith, H. J. J. Am
+Chem. Soc. 2013, 135 (36), 13538. doi: 10.1021/ja406230f
+(18) Dong, X.; Hu, H. W.; Lin, B. C.; Ding, J. N.; Yuan, N. Y.
+Chem. Commun. 2014, 50 (92), 14405. doi: 10.1039/
+c4cc04685d
+(19) Mahmood, K.; Swain, B. S.; Kirmani, A. R.; Amassian, A. J.
+Mater. Chem. A 2015, 3 (17), 9051. doi: 10.1039/c4ta04883k
+(20) Kumar, M. H.; Dharani, S.; Leong, W. L.; Boix, P. P.;
+Prabhakar, R. R.; Baikie, T.; Shi, C.; Ding, H.; Ramesh, R.;
+Asta, M.; Graetzel, M.; Mhaisalkar, S. G.; Mathews, N. Adv.
+Mater. 2014, 26 (41), 7122. doi: 10.1002/adma.201401991
+(21) Ogomi, Y.; Morita, A.; Tsukamoto, S.; Saitho, T.; Fujikawa, N.;
+Shen, Q.; Toyoda, T.; Yoshino, K.; Pandey, S. S.; Ma, T.;
+Hayase, S. J. Phys. Chem. Lett. 2014, 5 (6), 1004. doi: 10.1021/
+jz5002117
+(22) Nagane, S.; Bansode, U.; Game, O.; Chhatre, S.; Ogale, S.
+Chem. Commun. 2014, 50 (68), 9741. doi: 10.1039/
+c4cc04537h
+(23) Kazim, S.; Nazeeruddin, M. K.; Graetzel, M.; Ahmad, S.
+Angew. Chem. Int. Ed. 2014, 53 (11), 2812. doi: 10.1002/
+anie.201308719
+(24) Ono, L. K.; Wang, S. H.; Kato, Y.; Raga, S. R.; Qi, Y. B.
+Energ. Environ. Sci. 2014, 7 (12), 3989. doi: 10.1039/
+c4ee02539c
+(25) Stranks, S. D.; Snaith, H. J. Nat. Nanotechnol. 2015, 10 (5),
+391. doi: 10.1038/nnano.2015.90
+1909
+Acta Phys. -Chim. Sin. 2016 Vol.32
+(26) Sum, T. C.; Chen, S.; Xing, G. C.; Liu, X. F.; Wu, B.
+Nanotechnology 2015, 26 (34). doi: 10.1088/0957-4484/26/34/
+342001
+(27) Luo, J.; Im, J. H.; Mayer, M. T.; Schreier, M.; Nazeeruddin, M.
+K.; Park, N. G.; Tilley, S. D.; Fan, H. J.; Grätzel, M. Science
+2014, 345 (6204), 1593. doi: 10.1126/science.1258307
+(28) Guo, Y. L.; Liu, C.; Tanaka, H.; Nakamura, E. J. Phys. Chem.
+Lett. 2015, 6 (3), 535. doi: 10.1021/jz502717g
+(29) Dong, Q. F.; Fang, Y. J.; Shao, Y. C.; Mulligan, P.; Qiu, J.; Cao,
+L.; Huang, J. S. Science 2015, 347 (6225), 967. doi: 10.1126/
+science.aaa5760
+(30) Nie, W. Y.; Tsai, H. H.; Asadpour, R.; Blancon, J. C.; Neukirch,
+A. J.; Gupta, G.; Crochet, J. J.; Chhowalla, M.; Tretiak, S.;
+Alam, M. A.; Wang, H. L.; Mohite, A. D. Science 2015, 347
+(6221), 522. doi: 10.1126/science.aaa0472
+(31) Shi, D.; Adinolfi, V.; Comin, R.; Yuan, M.; Alarousu, E.; Buin,
+A.; Chen, Y.; Hoogland, S.; Rothenberger, A.; Katsiev, K.;
+Losovyj, Y.; Zhang, X.; Dowben, P. A.; Mohammed, O. F.;
+Sargent, E. H.; Bakr, O. M. Science 2015, 347 (6221), 519.
+doi: 10.1126/science.aaa2725
+(32) Kim, Y. H.; Cho, H.; Heo, J. H.; Kim, T. S.; Myoung, N.; Lee,
+C. L.; Im, S. H.; Lee, T. W. Adv. Mater. 2015, 27 (7), 1248.
+doi: 10.1002/adma.201403751
+(33) Xing, G. C.; Mathews, N.; Lim, S. S.; Yantara, N.; Liu, X. F.;
+Sabba, D.; Grätzel, M.; Mhaisalkar, S.; Sum, T. C. Nat. Mater.
+2014, 13 (5), 476. doi: 10.1038/nmat3911
+(34) Chin, X. Y.; Cortecchia, D.; Yin, J.; Bruno, A.; Soci, C. Nat.
+Commun. 2015, 6, 7383. doi: 10.1038/ncomms8383
+(35) Yin, W. J.; Shi, T. T.; Yan, Y. F. Adv. Mater. 2014, 26 (27),
+4653. doi: 10.1002/adma.201306281
+(36) Yin, W. J.; Yang, J. H.; Kang, J.; Yan, Y. F.; Wei, S. H. J. Mater.
+Chem. A 2015, 3 (17), 8926. doi: 10.1039/c4ta05033a
+(37) Li, C. H.; Lu, X. G.; Ding, W. Z.; Feng, L. M.; Gao, Y. H.;
+Guo, Z. M. Acta Crystallogr. B 2008, 64, 702. doi: 10.1107/
+s0108768108032734
+(38) Baikie, T.; Fang, Y.; Kadro, J. M.; Schreyer, M.; Wei, F.;
+Mhaisalkar, S. G.; Graetzel, M.; White, T. J. J. Mater. Chem. A
+2013, 1 (18), 5628. doi: 10.1039/c3ta10518k
+(39) Stoumpos, C. C.; Malliakas, C. D.; Kanatzidis, M. G. Inorg.
+Chem. 2013, 52 (15), 9019. doi: 10.1021/ic401215x
+(40) Ball, J. M.; Lee, M. M.; Hey, A.; Snaith, H. J. Energ. Environ.
+Sci. 2013, 6 (6), 1739. doi: 10.1039/c3ee40810h
+(41) Chung, I.; Song, J. H.; Im, J.; Androulakis, J.; Malliakas, C.
+D.; Li, H.; Freeman, A. J.; Kenney, J. T.; Kanatzidis, M. G. J.
+Am. Chem. Soc. 2012, 134 (20), 8579. doi: 10.1021/ja301539s
+(42) Wang, B. H.; Xiao, X. D.; Chen, T. Nanoscale 2014, 6 (21),
+12287. doi: 10.1039/c4nr04144e
+(43) Umebayashi, T.; Asai, K.; Kondo, T.; Nakao, A. Phys. Rev. B
+2003, 67 (155405). doi: 10.1103/PhysRevB.67.155405
+(44) Mosconi, E.; Amat, A.; Nazeeruddin, M. K.; Graetzel, M.; De
+Angelis, F. J. Phys. Chem. C 2013, 117 (27), 13902.
+doi: 10.1021/jp4048659
+(45) Pang, S. P.; Hu, H.; Zhang, J. L.; Lv, S. L.; Yu, Y. M.; Wei, F.;
+Qin, T. S.; Xu, H. X.; Liu, Z. H.; Cui, G. L. Chem. Mater.
+2014, 26 (3), 1485. doi: 10.1021/cm404006p
+(46) Hao, F.; Stoumpos, C. C.; Chang, R. P. H.; Kanatzidis, M. G. J.
+Am. Chem. Soc. 2014, 136 (22), 8094. doi: 10.1021/ja5033259
+(47) Kitazawa, N.; Watanabe, Y.; Nakamura, Y. J. Mater. Sci. 2002,
+37 (17), 3585. doi: 10.1023/a:1016584519829
+(48) Noh, J. H.; Im, S. H.; Heo, J. H.; Mandal, T. N.; Seok, S. I.
+Nano Lett. 2013, 13 (4), 1764. doi: 10.1021/nl400349b
+(49) Hao, F.; Stoumpos, C. C.; Duyen Hanh, C.; Chang, R. P. H.;
+Kanatzidis, M. G. Nat. Photonics 2014, 8 (6), 489.
+doi: 10.1038/nphoton.2014.82
+(50) Gil Escrig, L.; Miquel Sempere, A.; Sessolo, M.; Bolink, H. J.
+J. Phys. Chem. Lett. 2015, 6 (18), 3743. doi: 10.1021/acs.
+jpclett.5b01716
+(51) Wetzelaer, G. A. H.; Kuik, M.; Nicolai, H. T.; Blom, P. W. M.
+Phys. Rev. B 2011, 83 (165204). doi: 10.1103/
+PhysRevB.83.165204
+(52) Wetzelaer, G. J. A. H.; Scheepers, M.; Miquel Sempere, A.;
+Momblona, C.; Avila, J.; Bolink, H. J. Adv. Mater. 2015, 27
+(11), 1837. doi: 10.1002/adma.201405372
+(53) Schulz, P.; Edri, E.; Kirmayer, S.; Hodes, G.; Cahen, D.; Kahn,
+A. Energ. Environ. Sci. 2014, 7 (4), 1377. doi: 10.1039/
+c4ee00168k
+(54) Wong, A. B.; Lai, M.; Eaton, S. W.; Yu, Y.; Lin, E.; Dou, L.;
+Fu, A.; Yang, P. Nano Lett. 2015, 15 (8), 5519. doi: 10.1021/
+acs.nanolett.5b02082
+(55) Wang, N. N.; Si, J. J.; Jin, Y. Z.; Wang, J. P.; Huang, W. Acta
+Chim. Sin. 2015, 73 (3), 171. [王娜娜, 司俊杰, 金一政, 王建
+浦, 黄 维 . 化学学报, 2015, 73 (3), 171.] doi: 10.6023/
+a14100711
+(56) Wei, M. Y.; Chung, Y. H.; Xiao, Y.; Chen, Z. J. Org. Electron.
+2015, 26, 260. doi: 10.1016/j.orgel.2015.07.053
+(57) Zhang, M.; Yu, H.; Lyu, M. Q.; Wang, Q.; Yun, J. H.; Wang, L.
+Z. Chem. Commun. 2014, 50 (79), 11727. doi: 10.1039/
+c4cc04973j
+(58) Zhang, T. Y.; Yang, M. J.; Benson, E. E.; Li, Z.; van de
+Lagemaat, J.; Luther, J. M.; Yan, Y. F.; Zhu, K.; Zhao, Y. X.
+Chem. Commun. 2015, 51 (37), 7820. doi: 10.1039/
+c5cc01835h
+(59) D′Innocenzo, V.; Kandada, A. R. S.; De Bastiani, M.; Gandini,
+M.; Petrozza, A. J. Am. Chem. Soc. 2014, 136 (51), 17730.
+doi: 10.1021/ja511198f
+(60) D′Innocenzo, V.; Grancini, G.; Alcocer, M. J. P.; Kandada, A.
+R. S.; Stranks, S. D.; Lee, M. M.; Lanzani, G.; Snaith, H. J.;
+Petrozza, A. Nat. Commun. 2014, 5, 3586. doi: 10.1038/
+ncomms4586
+(61) Yamada, Y.; Nakamura, T.; Endo, M.; Wakamiya, A.;
+Kanemitsu, Y. Appl. Phys. Express 2014, 7 (3). doi: 10.7567/
+apex.7.032302
+1910
+肖 娟等：新型有机-无机杂化钙钛矿发光材料的研究进展No.8
+(62) Varshni, Y. P. Elsevier B.V. 1967, 34 (1), 149. doi: 10.1016/
+0031-8914(67)90062-6
+(63) Zhang, F.; Zhong, H. Z.; Chen, C.; Wu, X. G.; Hu, X. M.;
+Huang, H. L.; Han, J. B.; Zou, B. S.; Dong, Y. P. ACS Nano
+2015, 9 (4), 4533. doi: 10.1021/acsnano.5b01154
+(64) Im, J. H.; Jang, I. H.; Pellet, N.; Graetzel, M.; Park, N. G. Nat.
+Nanotechnol. 2014, 9 (11), 927. doi: 10.1038/nnano.2014.181
+(65) Ren, Z. W.; Ng, A.; Shen, Q.; Gokkaya, H. C.; Wang, J. C.;
+Yang, L. J.; Yiu, W. K.; Bai, G. X.; Djurisic, A. B.; Leung, W.
+W. F.; Hao, J. H.; Chan, W. K.; Surya, C. Sci. Rep. 2014, 4.
+doi: 10.1038/srep06752
+(66) Saba, M.; Cadelano, M.; Marongiu, D.; Chen, F.; Sarritzu, V.;
+Sestu, N.; Figus, C.; Aresti, M.; Piras, R.; Lehmann, A. G.;
+Cannas, C.; Musinu, A.; Quochi, F.; Mura, A.; Bongiovanni, G.
+Nat. Commun. 2014, 5, 5049. doi: 10.1038/ncomms6049
+(67) Cohn, A. W.; Schimpf, A. M.; Gunthardt, C. E.; Gamelin, D. R.
+Nano Lett. 2013, 13 (4), 1810. doi: 10.1021/nl400503s
+(68) Eperon, G. E.; Stranks, S. D.; Menelaou, C.; Johnston, M. B.;
+Herz, L. M.; Snaith, H. J. Energ. Environ. Sci. 2014, 7 (3), 982.
+doi: 10.1039/c3ee43822h
+(69) Huang, H.; Andrei, S. S.; Stephen, V. K.; Tak, F. H.; Rogach,
+A. L. Adv. Sci. 2015, 2, 1500194. doi: 10.1002/advs.201500194
+(70) Deschler, F.; Price, M.; Pathak, S.; Klintberg, L. E.; Jarausch,
+D. D.; Higler, R.; Huettner, S.; Leijtens, T.; Stranks, S. D.;
+Snaith, H. J.; Atatuere, M.; Phillips, R. T.; Friend, R. H.
+J. Phys. Chem. Lett. 2014, 5 (8), 1421. doi: 10.1021/jz5005285
+(71) Tan, Z. K.; Moghaddam, R. S.; Lai, M. L.; Docampo, P.;
+Higler, R.; Deschler, F.; Price, M.; Sadhanala, A.; Pazos, L. M.;
+Credgington, D.; Hanusch, F.; Bein, T.; Snaith, H. J.; Friend,
+R. H. Nat. Nanotechnol. 2014, 9 (9), 687. doi: 10.1038/
+nnano.2014.149
+(72) Li, G. R.; Tan, Z. K.; Di, D. W.; Lai, M. L.; Jiang, L.; Lim, J.
+H. W.; Friend, R. H.; Greenham, N. C. Nano Lett. 2015, 15 (4),
+2640. doi: 10.1021/acs.nanolett.3b00235
+(73) Kumawat, N. K.; Dey, A.; Kumar, A.; Gopinathan, S. P.;
+Narasimhan, K. L.; Kabra, D. ACS Appl. Mater. Inter. 2015, 7
+(24), 13119. doi: 10.1021/acsami.5b02159
+(74) Sutherland, B. R.; Hoogland, S.; Adachi, M. M.; Wong, C. T.
+O.; Sargent, E. H. ACS Nano 2014, 8 (10), 10947. doi: 10.1021/
+nn504856g
+(75) Zhu, H. M.; Fu, Y. P.; Meng, F.; Wu, X. X.; Gong, Z. Z.; Ding,
+Q.; Gustafsson, M. V.; Trinh, M. T.; Jin, S.; Zhu, X. Y. Nat.
+Mater. 2015, 14 (6), 636. doi: 10.1038/nmat4271
+(76) Ramanathan, S.; Patibandla, S.; Bandyopadhyay, S.; Edwards,
+J. D.; Anderson, J. J. Mater. Sci.-Mater. El. 2006, 17 (9), 651.
+doi: 10.1007/s10854-006-0021-4
+(77) Yan, R. X.; Gargas, D.; Yang, P. D. Nat. Photonics 2009, 3
+(10), 569. doi: 10.1038/nphoton.2009.184
+(78) Dasgupta, N. P.; Sun, J. W.; Liu, C.; Brittman, S.; Andrews, S.
+C.; Lim, J.; Gao, H. W.; Yan, R. X.; Yang, P. D. Adv. Mater.
+2014, 26 (14), 2137. doi: 10.1002/adma.201305929
+(79) Meng, F.; Morin, S. A.; Forticaux, A.; Jin, S. Accounts Chem.
+Res. 2013, 46 (7), 1616. doi: 10.1021/ar400003q
+(80) Morin, S. A.; Bierman, M. J.; Tong, J.; Jin, S. Science 2010,
+328 (5977), 476. doi: 10.1126/science.1182977
+(81) Bierman, M. J.; Lau, Y. K. A.; Kvit, A. V.; Schmitt, A. L.; Jin,
+S. Science 2008, 320 (5879), 1060. doi: 10.1126/
+science.1157131
+(82) Mayer, B.; Rudolph, D.; Schnell, J.; Morkoetter, S.; Winnerl,
+J.; Treu, J.; Mueller, K.; Bracher, G.; Abstreiter, G.;
+Koblmueller, G.; Finley, J. J. Nat. Commun. 2013, 4, 2931.
+doi: 10.1038/ncomms3931
+(83) Saxena, D.; Mokkapati, S.; Parkinson, P.; Jiang, N.; Gao, Q.;
+Tan, H. H.; Jagadish, C. Nat. Photonics 2013, 7 (12), 963.
+doi: 10.1038/nphoton.2013.303
+(84) Ning, C. Z. Phys. Status Solidi B 2010, 247 (4), 774.
+doi: 10.1002/pssb.200945436
+(85) Jiang, N.; Parkinson, P.; Gao, Q.; Breuer, S.; Tan, H. H.; Wong
+Leung, J.; Jagadish, C. Appl. Phys. Lett. 2012, 101 (2).
+doi: 10.1063/1.4735002
+(86) Zhang, Q.; Ha, S. T.; Liu, X. F.; Sum, T. C.; Xiong, Q. H. Nano
+Lett. 2014, 14 (10), 5995. doi: 10.1021/nl503057g
+(87) Tian, W. M.; Zhao, C. Y.; Leng, J.; Gui, R. R.; Jin, S. G. J. Am.
+Chem. Soc. 2015, 137 (39), 12458. doi: 10.1021/jacs.5b08045
+(88) Dhanker, R.; Brigeman, A. N.; Larsen, A. V.; Stewart, R. J.;
+Asbury, J. B.; Giebink, N. C. Appl. Phys. Lett. 2014, 105 (15).
+doi: 10.1063/1.4898703
+(89) Apalkov, V. M.; Raikh, M. E. Phys. Rev. B 2005, 72 (18).
+doi: 10.1103/PhysRevB.72.189903
+(90) Sum, T. C.; Mathews, N. Energ. Environ. Sci. 2014, 7 (8),
+2518. doi: 10.1039/c4ee00673a
+(91) Jaramillo Quintero, O. A.; Sanchez, R. S.; Rincon, M.; Mora-
+Sero, I. J. Phys. Chem. Lett. 2015, 6 (10), 1883. doi: 10.1021/
+acs.jpclett.5b00732
+(92) Miller, O. D.; Yablonovitch, E.; Kurtz, S. R. IEEE J. Photovolt.
+2012, 2 (3), 303. doi: 10.1109/jphotov.2012.2198434
+(93) Kwak, J.; Bae, W. K.; Lee, D.; Park, I.; Lim, J.; Park, M.; Cho,
+H.; Woo, H.; Yoon, D. Y.; Char, K.; Lee, S.; Lee, C. Nano Lett.
+2012, 12 (5), 2362. doi: 10.1021/nl3003254
+(94) Niu, Y. H.; Munro, A. M.; Cheng, Y. J.; Tian, Y. Q.; Liu, M. S.;
+Zhao, J. L.; Bardecker, J. A.; Jen La Plante, I.; Ginger, D. S.;
+Jen, A. K. Y. Adv. Mater. 2007, 19 (20), 3371. doi: 10.1002/
+adma.200602373
+(95) Era, M.; Morimoto, S.; Tsutsui, T.; Saito, S. Appl. Phys. Lett.
+1994, 65 (6), 676. doi: 10.1063/1.112265
+(96) Deren, P. J.; Bednarkiewicz, A.; Goldner, P.; Guillot Noel, O.
+J. Appl. Phys. 2008, 103 (4). doi: 10.1063/1.2842399
+(97) Xia, R. D.; Heliotis, G.; Bradley, D. D. C. Appl. Phys. Lett.
+2003, 82 (21), 3599. doi: 10.1063/1.1576906
+(98) Namdas, E. B.; Tong, M.; Ledochowitsch, P.; Mednick, S. R.;
+Yuen, J. D.; Moses, D.; Heeger, A. J. Adv. Mater. 2009, 21 (7),
+799. doi: 10.1002/adma.200802436
+1911
+Acta Phys. -Chim. Sin. 2016 Vol.32
+(99) Dang, C.; Lee, J.; Breen, C.; Steckel, J. S.; Coe Sullivan, S.;
+Nurmikko, A. Nat. Nanotechnol. 2012, 7 (5), 335. doi: 10.1038/
+nnano.2012.61
+(100) Stagira, S.; Nisoli, M.; Cerullo, G.; Zavelani Rossi, M.; De
+Silvestri, S.; Lanzani, G.; Graupner, W.; Leising, G. Chem.
+Phys. Lett. 1998, 289 (1－2), 205. doi: 10.1016/s0009-2614(98)
+00391-1
+(101) Kagan, C. R.; Mitzi, D. B.; Dimitrakopoulos, C. D. Science
+1999, 286 (5441), 945. doi: 10.1126/science.286.5441.945
+(102) Liu, X. L.; Wang, C. G.; Lyu, L.; Wang, C. C.; Xiao, Z. G.; Bi,
+C.; Huang, J. S.; Gao, Y. L. Phys. Chem. Chem. Phys. 2015, 17
+(2), 896. doi: 10.1039/c4cp03842h
+(103) Wehrenfennig, C.; Eperon, G. E.; Johnston, M. B.; Snaith, H.
+J.; Herz, L. M. Adv. Mater. 2014, 26 (10), 1584. doi: 10.1002/
+adma.201305172
+(104) Mitzi, D. B.; Dimitrakopoulos, C. D.; Kosbar, L. L. Chem.
+Mater. 2001, 13 (10), 3728. doi: 10.1021/cm010105g
+(105) Bisri, S. Z.; Piliego, C.; Gao, J.; Loi, M. A. Adv. Mater. 2014,
+26 (8), 1176. doi: 10.1002/adma.201304280
+(106) Swensen, J. S.; Soci, C.; Heeger, A. J. Appl. Phys. Lett. 2005,
+87 (25). doi: 10.1063/1.2149986
+(107) Zaumseil, J.; Sirringhaus, H. Chem. Rev. 2007, 107 (4), 1296.
+doi: 10.1021/cr0501543
+(108) Mei, A. Y.; Li, X.; Liu, L. F.; Ku, Z. L.; Liu, T. F.; Rong, Y. G.;
+Xu, M.; Hu, M.; Chen, J. Z.; Yang, Y.; Graetzel, M.; Han, H.
+W. Science 2014, 345 (6194), 295. doi: 10.1126/
+science.1254763
+(109) Li, X.; Dar, M. I.; Yi, C. Y.; Luo, J. S.; Tschumi, M.;
+Zakeeruddin, S. M.; Nazeeruddin, M. K.; Han, H. W.; Graetzel,
+M. Nat. Chem. 2015, 7 (9), 703. doi: 10.1038/nchem.2324
+(110) Bansode, U.; Naphade, R.; Game, O.; Agarkar, S.; Ogale, S. J.
+Phys. Chem. C 2015, 119 (17), 9177. doi: 10.1021/acs.
+jpcc.5b02561
+(111) Yang, M. J.; Zhou, Y. Y.; Zeng, Y. N.; Jiang, C. S.; Padture, N.
+P.; Zhu, K. Adv. Mater. 2015, 27 (41), 6363. doi: 10.1002/
+adma.201502586
+(112) Chen, W.; Wu, Y. Z.; Yue, Y. F.; Liu, J.; Zhang, W. J.; Yang, X.
+D.; Chen, H.; Bi, E.; Ashraful, I.; Graetzel, M.; Han, L. Y.
+Science 2015, 350 (6263), 944. doi: 10.1126/science.aad1015
+(113) Hailegnaw, B.; Kirmayer, S.; Edri, E.; Hodes, G.; Cahen, D. J.
+Phys. Chem. Lett. 2015, 6 (9), 1543. doi: 10.1021/acs.
+jpclett.5b00504
+(114) Zhao, Y. X.; Zhu, K. Chem. Soc. Rev. 2016, 45 (3), 655.
+doi: 10.1039/c4cs00458b
+1912
+
